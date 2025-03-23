@@ -1,7 +1,7 @@
 package main
 
 import (
-	"api/src/handler"
+	"gin/src/handler"
 
 	"github.com/gin-gonic/gin"
 	"github.com/joho/godotenv"
